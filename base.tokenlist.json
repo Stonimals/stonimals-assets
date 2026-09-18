@@ -1,0 +1,15 @@
+{
+  "name": "Stonimals Token List",
+  "logoURI": "https://raw.githubusercontent.com/Stonimals/stonimals-assets/main/logo.png",
+  "keywords": ["base", "stonimals"],
+  "version": {"major":1,"minor":0,"patch":0},
+  "timestamp": "2026-09-18T00:00:00Z",
+  "tokens": [{
+    "chainId": 8453,
+    "address": "0xc863C0664802C2CF492F3689Ec817D30A94B4B07",
+    "name": "Stonimals",
+    "symbol": "STONIMALS",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/Stonimals/stonimals-assets/main/logo.png"
+  }]
+}
